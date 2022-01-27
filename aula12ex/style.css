@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(81, 81, 175);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background-color: white;
+    border-radius: 10px; /*Borda Arredondada*/
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
